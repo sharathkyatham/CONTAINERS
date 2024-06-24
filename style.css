@@ -1,0 +1,43 @@
+div{
+    background-color: blanchedalmond;
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+    padding: 25px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px;
+    margin: 20px;
+}
+
+div p{
+    text-align: justify;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: fill;
+}
+#Charlesdiv{
+    padding: 39px;
+}
+#roycediv{
+    /* background-color: cyan; */
+    padding: 29px;
+}
+
+#bendiv{
+    background-color: darkseagreen;
+}
+
+#applediv{
+    background-color:plum;
+}
+
+#apjdiv{
+    background-color: skyblue;
+}
+
+#MJdiv{
+    background-color: rgba(36, 174, 171, 0.662);
+}
